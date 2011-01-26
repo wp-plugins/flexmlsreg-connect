@@ -1,9 +1,9 @@
-=== flexmls IDX Plugin ===Tags: flexmls, IDX, MLS search
+=== flexmls&reg; IDX Plugin ===Tags: flexmls, IDX, MLS search
 Contributors: flexmlsRequires at least: 3.0.0Tested up to: 3.0.4Stable tag: 0.9.0Add flexmls IDX listings, market statistics, IDX searches, and a contact form on your web site.== Description ==*Requirement: To activate the flexmls IDX plugin, you must already be approved by your local MLS and FBS for flexmls IDX. Currently, FBS only provides IDX services to agents and brokers who are members of an MLS that uses flexmls Web.  Accordingly, if you are not a member of an MLS organization that uses flexmls Web, this plugin won't be useful to you.*
 The flexmls IDX plugin includes six widgets you can add to your side bar, pages and posts.  The widgets are:
 1. IDX Slideshow;1. IDX Search;1. Market Statistics;1. 1-Click Location Searches;1. 1-Click Custom Searches;1. Contact Form.
 *Live data from the MLS:* The IDX and market statistics widgets are all updated with IDX listing and statistics information live from the flexmls Web system used by your local MLS.
-Check out this [example site](http://wpdemo.flexmls.com) using the plugins or the [plugin product page](http://www.flexmls.com/products/flexmls-IDX/wpplugin).
+Check out this [example site](http://www.flexmls.com/wpdemo/) using the plugins or the [plugin product page](http://www.flexmls.com/products/flexmls-IDX/wpplugin).
 
 
 == Installation ==
